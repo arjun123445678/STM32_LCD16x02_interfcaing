@@ -17,8 +17,8 @@ This project demonstrates how to interface a **16x2 I2C LCD** (using PCF8574) wi
 |---------|---------------|-----------|
 | VCC     | Power         | 3.3V      |
 | GND     | Ground        | GND       |
-| SDA     | I2C Data      | PB9       |
-| SCL     | I2C Clock     | PB8       |
+| SDA     | I2C1 Data      | PD13      |
+| SCL     | I2C1 Clock     | PD14      |
 
 > Note: These pins depend on your CubeMX configuration.
 
